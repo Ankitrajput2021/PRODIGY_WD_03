@@ -85,7 +85,7 @@ button:hover {
     margin: 10px 0 0;
 }
 body {
-    background-image: url('/images/download.jpg');
+    background-image: url('images/download.jpg');
     background-size: cover; /* Ensure the image covers the entire background */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent repeating the image */
